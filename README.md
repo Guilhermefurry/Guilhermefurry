@@ -1,5 +1,5 @@
 ## Oiii eu sou o Guilherme, criador da scarllte!
-<a href='https://discord.com/users/894622998072541256'><img src="https://discord.c99.nl/widget/theme-3/894622998072541256.png" alt="top-langs"></a>
+<a href='https://discord.com/users/894622998072541256'><img src="https://discord.c99.nl/widget/theme-2/894622998072541256.png" alt="top-langs"></a>
 <div align="center">
   
   <a href="https://github.com/GuilhermeDev1">
