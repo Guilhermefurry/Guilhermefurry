@@ -1,4 +1,4 @@
-## Oiii eu sou o Guilherme, criador da scarllte!
+## Oiii eu sou o Guilherme! Sou aprendiz nas seguintes linguagens:
 
 <div align="center">
   
