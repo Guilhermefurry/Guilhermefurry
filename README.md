@@ -39,7 +39,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="[https://twitter.com/SolarisGC_](https://twitter.com/Guilhermefurry)"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-SolarisGC_-blue?style=flat-square&logo=twitter"></a>
+<a href="[https://twitter.com/Guilhermefurry](https://twitter.com/Guilhermefurry)"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-GuilhermeFurry-blue?style=flat-square&logo=twitter"></a>
 
 </p>
 
