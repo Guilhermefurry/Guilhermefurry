@@ -26,14 +26,12 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <br/>
 
-<a href="https://github.com/SolarisGC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolarisGC&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolarisGC&theme=buefy&layout=compact" />
+<a href="https://github.com/GuilhermeDev1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiLhermeDev1&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiLhermeDev1&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -41,8 +39,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://twitter.com/SolarisGC_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-SolarisGC_-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:support.discord@jeth.live"><img alt="Email" src="https://img.shields.io/badge/Email-support.discord@jeth.live-blue?style=flat-square&logo=gmail"></a>
+<a href="[https://twitter.com/SolarisGC_](https://twitter.com/Guilhermefurry)"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-SolarisGC_-blue?style=flat-square&logo=twitter"></a>
+
 </p>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
