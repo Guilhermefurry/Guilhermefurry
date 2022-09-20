@@ -29,6 +29,8 @@
 
 <br/>
 
+<h3> 🐱‍🏍 &nbsp; Minha Logo </h3>
+
 <a href="https://github.com/GuilhermeDev1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiLhermeDev1&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiLhermeDev1&theme=buefy&layout=compact" />
