@@ -29,7 +29,11 @@
 
 <br/>
 
-<h3> 🐱‍🏍 &nbsp; Minha Logo </h3>
+<h3> 🐱‍🏍 &nbsp; Minha Logo oficial </h3>
+
+  <img height="180em" src="https://cdn.discordapp.com/attachments/961801815614185522/1021923244871274617/79edfffe4b466fce3fed1fd7782047af-removebg-preview.png" />
+
+<h3> 〽 &nbsp; Minhas Estatisticas </h3>
 
 <a href="https://github.com/GuilhermeDev1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiLhermeDev1&theme=buefy&show_icons=true" />
