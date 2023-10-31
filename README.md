@@ -1,16 +1,14 @@
-<h2> Hey there! I'm GuilhermeDev</h2>
+<h2> Hey there! I'm GuilhermeFurry</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Robotic.
-- 💼 &nbsp; Working as a Chief Executive Officer at Mister Bot Discord project.
+- 💼 &nbsp; Working as a Chief Executive Officer at Heaven Store Discord project.
 - ✍️ &nbsp; Write every word of life to make it better...
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -20,7 +18,6 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 - 🔧 &nbsp;
@@ -29,9 +26,12 @@
 
 <br/>
 
-<h3> 🐱‍🏍 &nbsp; Minha Logo oficial </h3>
+<h3> 🐱‍🏍 &nbsp; Minhas Logos oficiais </h3>
 
   <img height="180em" src="https://cdn.discordapp.com/attachments/961801815614185522/1021923244871274617/79edfffe4b466fce3fed1fd7782047af-removebg-preview.png" />
+  <img height="180em" src="https://cdn.discordapp.com/attachments/1166177080174706769/1169058741702893658/heaven-removebg-preview_1.png" />
+  <img height="180em" src="https://cdn.discordapp.com/attachments/1166177080174706769/1169058742332047401/LOGOXANGAITRANSPARENTE.png" />
+  
 
 <h3> 〽 &nbsp; Minhas Estatisticas </h3>
 
