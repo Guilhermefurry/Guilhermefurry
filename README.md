@@ -46,6 +46,4 @@
 <p align="center">
 <a href="https://twitter.com/GuilhermeFurry"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-GuilhermeFurry-blue?style=flat-square&logo=twitter"></a>
 
-</p>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
