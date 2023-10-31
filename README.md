@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Robotic.
-- 💼 &nbsp; Working as a Chief Executive Officer at Heaven Store Discord project.
-- ✍️ &nbsp; Write every word of life to make it better...
+- 😃 &nbsp; Explorando o mundo de várias formas!
+- 🎓 &nbsp; Investindo em meu futuro.
+- 💼 &nbsp; Trabalhando como CEO no projeto Heaven Store Discord.
+- ✍️ &nbsp; Escreva cada palavra da vida para torná-la melhor...
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
