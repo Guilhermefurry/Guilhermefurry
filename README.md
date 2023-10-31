@@ -34,9 +34,9 @@
 
 <h3> 〽 &nbsp; Minhas Estatisticas </h3>
 
-<a href="https://github.com/GuilhermeDev1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiLhermeDev1&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiLhermeDev1&theme=buefy&layout=compact" />
+<a href="https://github.com/GuiLhermefurry">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiLhermefurry&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiLhermefurry&theme=buefy&layout=compact" />
 </a>
 
 <br/>
