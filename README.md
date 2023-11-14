@@ -28,7 +28,7 @@
 
 <h3> 🐱‍🏍 &nbsp; Minhas Marcas oficiais </h3>
 
-  <img height="180em" src="https://cdn.discordapp.com/attachments/961801815614185522/1021923244871274617/79edfffe4b466fce3fed1fd7782047af-removebg-preview.png" />  <img height="180em" src="https://cdn.discordapp.com/attachments/1166177080174706769/1169058741702893658/heaven-removebg-preview_1.png" />  <img
+  <img height="180em" src="https://cdn.discordapp.com/attachments/961801815614185522/1021923244871274617/79edfffe4b466fce3fed1fd7782047af-removebg-preview.png" />  <img height="180em" src="https://cdn.discordapp.com/attachments/1166191686091816960/1173793830315769926/heavenstore-removebg-preview.png" />  <img
  height="180em" src="https://cdn.discordapp.com/attachments/1166177080174706769/1169058742332047401/LOGOXANGAITRANSPARENTE.png" />
   
 
